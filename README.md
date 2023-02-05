@@ -9,4 +9,4 @@ Boubamahir2/Boubamahir2 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ## Technologies
-JavaScript Nodejs Angular React HTML5 CSS3 Bootstrap TypeScript MongoDB Redis GraphQL Apollo GraphQL Heroku Git GitHub GitLab
+JavaScript Nodejs Angular React HTML5 CSS3 Bootstrap TypeScript MongoDB Redis  Heroku Git GitHub 
